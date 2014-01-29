@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p><b>Specification by example</b></p>
+<p>- Confirm concepts with the domain experts (ubiquitous language)</p>
+<p>- Create a model by abstracting the examples (like in Commitment)</p>
+<p>- Specify using: user stories, conversations, BDD scenarios, equations, state machine, workflows</p>
+<p>- Inside the specs text file you can add a "Description:" section where you add more in-depth knowledge [1]</p>
+<p>- How can you use tools to generate .pdf documents from the specs? [1]</p>
+<p>- Annotate classes and use a parser to generate a domain glossary [1]</p>
+<p> </p>
+<p>References:</p>
+<p>[1] Refactor your specs: Talk by Cyrille Martraire @ Oredev 2013: http://oredev.org/2013/wed-fri-conference/refactor-your-specs</p>
+<p> </p>
+<p> </p>
+<p><b>A/B testing</b></p>
+<p>- Rails framework: http://vanity.labnotes.org/</p>
+<p> </p>
+</body>
+</html>

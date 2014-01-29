@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>When replacing one library/component with another in your system, instead of doing it in a big bang fashion, which leaves the system in an unstable state, you could do <i>Branch By Abstraction.</i></p>
+<p><a href="http://martinfowler.com/bliki/BranchByAbstraction.html">http://martinfowler.com/bliki/BranchByAbstraction.html</a></p>
+<p><a href="http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/">http://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/</a></p>
+<p> </p>
+<p> </p>
+<hr />
+<p> </p>
+<p>Martin Fowler speaks of <a href="http://martinfowler.com/articles/workflowsOfRefactoring/">several workflows</a>:</p>
+<ul>
+<li>TDD Refactoring - during TDD</li>
+<li>Litter-Pickup Refactoring - when some code is bad</li>
+<li>Comprehension Refactoring - to understand some code</li>
+<li>Preparatory Refactoring - when starting a new task</li>
+<li>Planned Refactoring - refactoring stories</li>
+<li>Long-Term Refactoring - large-scale refactorings</li>
+</ul>
+<hr />
+<p> </p>
+</body>
+</html>

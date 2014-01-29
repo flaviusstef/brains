@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 9.0.0.115" />
+<meta name="generator" content="TheBrain 8.0.0.7" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p>foo.should_receive(:bar)<br />
+foo.should_receive(:bar).with(:buzz)<br />
+foo.should_receive(:bar).exactly(3).times</p>
+<p> </p>
+<p>expect(foo).to receive(:bar)<br />
+expect(foo).to receive(:bar).with(:buzz)<br />
+expect(foo).to receive(:bar).exactly(3).times</p>
+<p> </p>
+<p>d = double(:message1 => true)<br />
+d.stub(:message2).and_return(:value)<br />
+real_object.stub(:message).and_return(:value)</p>
+<p> </p>
+<p>d = double(:message1 => true)<br />
+allow(d).to receive(:message2).and_return(:value)<br />
+allow(real_object).to receive(:message).and_return(:value)</p>
+<p> </p>
+<p>RSpec.configure do |configuration|<br />
+ configuration.mock_with :rspec do |configuration|<br />
+   configuration.syntax = [:expect, :should]<br />
+   #configuration.syntax = :should<br />
+   #configuration.syntax = :expect<br />
+ end<br />
+end</p>
+</body>
+</html>

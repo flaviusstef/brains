@@ -1,0 +1,12 @@
+<Brain>
+  <Property name="fontSize" value="19"/>
+  <Property name="gravity" value="4.0"/>
+  <Thought id="2,1" xPos="957.0000000000011" yPos="361.0666666666664">
+    <Property name="activated" value="true"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+  <Thought id="2,2" xPos="961.0591352803347" yPos="396.9821013483262">
+    <Property name="activated" value="false"/>
+    <Property name="fixed" value="false"/>
+  </Thought>
+</Brain>

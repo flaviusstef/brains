@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="generator" content="EditLive! 7.6.2.10" />
+<meta name="generator" content="TheBrain 7.0.4.5" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style type="text/css">
+<!--
+body {
+font-family: Arial;  font-size: small;  background: #ffffff;  color: #000000;
+}
+p {
+margin-top: 0pt;  margin-bottom: 0pt;
+}
+-->
+</style>
+</head>
+<body>
+<p><b>Eliminate waste </b><i>(Eliminate waste)</i></p>
+<p><i>+ </i>Retrospectives</p>
+<p>- See waste</p>
+<p>- VSM21</p>
+<p>&#160;</p>
+<p><b>Build quality in </b><i>(Build integrity in)</i></p>
+<p>+ TDD</p>
+<p>+ Refactoring</p>
+<p>- Stop the line (andon cord)</p>
+<p>- Master developers</p>
+<p>+ Automated testing</p>
+<p>+ Pair programming, code reviews</p>
+<p>&#160;</p>
+<p><b>Defer commitment </b><i>(Decide as last as possible)</i></p>
+<p>- Options thinking</p>
+<p>+ Incremental design</p>
+<p>- Last responsible moment</p>
+<p>&#160;</p>
+<p><b>Create knowledge </b><i>(Amplify learning)</i></p>
+<p>+ Iterations</p>
+<p>+ Sync: Daily Scrum, Demo</p>
+<p>- Set based development</p>
+<p>- Prototypes</p>
+<p>&#160;</p>
+<p><b>Deliver fast </b><i>(Deliver as fast as possible)</i></p>
+<p><i>+ </i>Short release cycle</p>
+<p>+ Cross-functional teams</p>
+<p>- Pull systems</p>
+<p>+ Information radiators</p>
+<p>- Queuing theory</p>
+<p>- Cost of delay</p>
+<p>&#160;</p>
+<p><b>Respect people </b><i>(Empower the team)</i></p>
+<p>+ Self-organization</p>
+<p>+ Leaders vs managers</p>
+<p>- Develop expertise</p>
+<p>+ Communities of practice</p>
+<p>&#160;</p>
+<p><b>Optimize the whole </b><i>(See the whole)</i></p>
+<p>- Systems thinking: root cause analysis, CED</p>
+<p>- Contracts: fixed scope/price vs. time&#38;materials, multistage, shared benefit</p>
+<p>- Purpose related measurements</p>
+</body>
+</html>
